@@ -24,8 +24,9 @@ https://quizzesapp1.netlify.app/
 
 ## This project Created By
 
+- Karan R
 - Ashen A 
-- Karan R 
+   
 
 
 
